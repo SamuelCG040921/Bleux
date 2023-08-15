@@ -301,10 +301,10 @@ a:hover{
     }
     .lorem{
         width: 350px;
-        margin-left: 70px;
+        margin-left: 40px;
     }
     .celular{
-        width: 200px;
+        width: 150px;
         margin-left: 20px;
     }
     .cuartaparte h2{
@@ -315,7 +315,7 @@ a:hover{
         flex-direction: column;
     }
     .checks{
-        margin-left: 100px;
+        margin-left: 50px;
     }
     .segundaparte1{
         padding-top: 20px;
