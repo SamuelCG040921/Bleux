@@ -292,11 +292,21 @@ a:hover{
     }
 }
 @media screen and (max-width:480px) {
+    .container{
+        width: 75%;
+    }
+    .flex{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
     .menu1{
         margin-right: 20px;
         font-size: 10px;
     }
     .logo{
+        width: 15%;
         margin-left: 20px;
     }
     .lorem{
@@ -329,11 +339,11 @@ a:hover{
         padding-right: 30px;
     }
     .compu{
-        margin-left: 10px;
+        margin-left: 140px;
         width: 200px;
     }
     .botones{
-        width: 180px;
+        width: 80%;
     }
     .descargar{
         width: auto;
